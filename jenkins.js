@@ -1,1 +1,1 @@
-np i
+npm i && npm start
